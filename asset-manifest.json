@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/brian-blog/static/css/main.a617e044.chunk.css",
+    "main.js": "/brian-blog/static/js/main.74fbeaa8.chunk.js",
+    "main.js.map": "/brian-blog/static/js/main.74fbeaa8.chunk.js.map",
+    "runtime-main.js": "/brian-blog/static/js/runtime-main.c16c5c1f.js",
+    "runtime-main.js.map": "/brian-blog/static/js/runtime-main.c16c5c1f.js.map",
+    "static/js/2.b1f339bc.chunk.js": "/brian-blog/static/js/2.b1f339bc.chunk.js",
+    "static/js/2.b1f339bc.chunk.js.map": "/brian-blog/static/js/2.b1f339bc.chunk.js.map",
+    "static/js/3.0af0e738.chunk.js": "/brian-blog/static/js/3.0af0e738.chunk.js",
+    "static/js/3.0af0e738.chunk.js.map": "/brian-blog/static/js/3.0af0e738.chunk.js.map",
+    "index.html": "/brian-blog/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/brian-blog/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.b1f339bc.chunk.js.LICENSE.txt": "/brian-blog/static/js/2.b1f339bc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/brian-blog/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c16c5c1f.js",
+    "static/js/2.b1f339bc.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.74fbeaa8.chunk.js"
+  ]
+}
